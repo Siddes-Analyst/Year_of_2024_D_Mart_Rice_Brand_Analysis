@@ -24,27 +24,27 @@ This project analyzes rice product sales, profit performance, and customer buyin
 
 ## 📌 Key Insights
 
-### 🥇 Category Performance
+#### 🥇 Category Performance
 - Basmati Rice contributes ~65% of total profit, making it the top-performing category
 - Special occasion rice categories contribute ~88% of total profit, while daily-use rice contributes only ~12%
 - Daily-use categories (Ponni, Kolam, Sona Mansoori) show high volume but low profit margins
 
-### 🏷️ Brand Insights
+#### 🏷️ Brand Insights
 - Top 2 brands (Daawat & Indian Gate) contribute ~80%+ sales and ~84% profit in Basmati category
 - Overall, 12 brands exist but majority of profit is concentrated in few brands
 - Opportunity identified for new low-price brands in small packs to increase market share
 
-### 📦 Product & Quantity Insights
+#### 📦 Product & Quantity Insights
 - 500g & 1kg packs contribute ~75–80% of sales volume
 - 5kg & 10kg packs contribute ~68–75% of total profit
 - Indicates small packs drive demand, while bulk packs drive profitability
 
-### 📅 Time-Based Insights
+#### 📅 Time-Based Insights
 - October & November contribute ~80% peak sales and profit (festival season)
 - Q4 is the highest performing quarter across sales and profit
 - Demand is highly seasonal, with significant drop in non-festival months
 
-### 🏬 Store Performance Insights
+#### 🏬 Store Performance Insights
 - Analysis across 17 stores shows consistent performance across regions
 - Population density has minimal impact on sales & profit distribution
 - Top-performing stores identified across low, medium, and high population areas
